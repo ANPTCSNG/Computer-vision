@@ -1,2 +1,2 @@
 # Computer-vision
-Hands on
+Computer vision Lab in Hands on branch
